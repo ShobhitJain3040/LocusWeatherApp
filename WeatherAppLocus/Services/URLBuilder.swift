@@ -8,7 +8,7 @@
 import Foundation
 
 struct URLBuilder {
-    private let apiKey = "49f659bc0afdfc0742e1d699a2177df4"
+    private let apiKey = "65d00499677e59496ca2f318eb68c049"
     private let scheme = "http"
     private let host = "api.openweathermap.org"
     
